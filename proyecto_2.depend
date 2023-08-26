@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689217319 source:c:\users\usuario\desktop\proyecto\proyecto_2\main.cpp
+	<Windows.h>
+	<iostream>
+	<vector>
+	<string>
+
